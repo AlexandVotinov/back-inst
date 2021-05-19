@@ -6,7 +6,8 @@
     "express-validator": "^6.10.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.6.6",
-    "mongoose": "^5.12.3"
+    "mongoose": "^5.12.3",
+    "multer": "^1.4.2"
   },
   "name": "instagram",
   "version": "1.0.0",
